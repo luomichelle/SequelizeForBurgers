@@ -1,0 +1,20 @@
+body{
+	background-image: url(../img/wallpaper.jpg);
+	font-family: "Courier New", Courier, monospace !IMPORTANT;
+}
+
+h1,h2,label{
+	color:white !IMPORTANT;
+}
+
+.devoured{
+	height:350px;
+	overflow:scroll;
+}
+
+
+.not-devoured{
+	height:350px;
+	margin-right:50px;
+	overflow:scroll;
+}
