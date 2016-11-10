@@ -1,12 +1,6 @@
-#Week of 14 Homework Node Express Handlebars
+burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
-### Overview
 
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
-
-### Remember
-
-You will be fully capable of doing this homework by the end of Saturday's class.
 
 ### Before You Begin
 
