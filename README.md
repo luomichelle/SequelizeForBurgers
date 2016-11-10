@@ -167,11 +167,3 @@ All the recommended files and directories from the steps above should look like 
         └── main.handlebars
 ```
 
--------
-### One More Thing
-This is a really tough homework assignment, but we want you to put in your best effort to finish it. If you get stuck at any point, don't hesitate to contact a TA or your instructor.
-
-** Good Luck!**
-
-## Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
